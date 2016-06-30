@@ -11,13 +11,13 @@ Can be installed with pip
 </ul>
 ## Features
 <ul>
-	<li>Platform independent</li>
-	<li>Detects interfaces with ip address (ignores loopback and vm interfaces)</li>
-	<li>Detects ip address change</li>
-	<li>Detects interface change</li>
 	<li>Detects which type of scan was performed</li>
+	<li>Detects interfaces with ip address (ignores loopback and vm interfaces)</li>
 	<li>Can listen to multiple interfaces using multiprocessing</li>
+	<li>Detects ip address change</li>
+	<li>Detects interface change</li>	
 	<li>Can perform whois lookup on attacker</li>
+	<li>Platform independent</li>
 </ul>
 ## Usage
 <i>Must run as sudo</i><br> 
