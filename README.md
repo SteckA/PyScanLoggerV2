@@ -27,4 +27,5 @@ Can be installed with pip
 <code>-f, --logfile   Desired path of log file</code></br>
 <code>-w, --whois      Runs whois against scanner's ip</code>
 ## Logging
-Logs to /var/log/pyscan.log by default
+Logs to /var/log/pyscan.log by default<br>
+Triggers when 20 ports have been hit in 3 minutes from same ip address. The threshold can be changed at the top of the script for more/less sensitive triggering.
