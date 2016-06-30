@@ -23,7 +23,7 @@ Can be installed with pip
 <i>Must run as sudo</i><br> 
 <code>-h, --help       show this help message and exit</code><br>
 <code>-v, --verbose    Prints scan detections to stdout</code><br>
-<code>-f , --logfile   Desired path of log file</code></br>
+<code>-f, --logfile   Desired path of log file</code></br>
 <code>-w, --whois      Runs whois against scanner's ip</code>
 ## Logging
 Logs to /var/log/pyscan.log by default

@@ -276,8 +276,7 @@ def main():
         # cleanup threads
         for p in procs:
             p.terminate()
-        exit("\nStopping the PyscanLogger!")
-
+        exit("\nStopping the PyScanLogger!")
 
 if __name__ == '__main__':
     # caches whois info
