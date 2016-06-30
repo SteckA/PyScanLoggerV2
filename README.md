@@ -15,6 +15,7 @@ Can be installed with pip
 	<li>Detects interfaces with ip address (ignores loopback and vm interfaces)</li>
 	<li>Detects ip address change</li>
 	<li>Detects interface change</li>
+	<li>Detects which type of scan was performed</li>
 	<li>Can listen to multiple interfaces using multiprocessing</li>
 	<li>Can perform whois lookup on attacker</li>
 </ul>
