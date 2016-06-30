@@ -21,7 +21,7 @@ Can be installed with pip
 </ul>
 ## Usage
 <i>Must run as sudo</i><br> 
-`sudo python pyscanloggerv2.py`
+`sudo python pyscanloggerv2.py`<br>
 <code>-h, --help       show this help message and exit</code><br>
 <code>-v, --verbose    Prints scan detections to stdout</code><br>
 <code>-f, --logfile   Desired path of log file</code></br>
