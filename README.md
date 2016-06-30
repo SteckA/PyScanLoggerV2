@@ -18,8 +18,8 @@ Can be installed with pip
 	<li>Can perform whois lookup on attacker</li>
 </ul>
 # Usage
-<i>Must run as sudo<i><br> 
-<code>  -h, --help       show this help message and exit
-  -v, --verbose    Prints scan detections to stdout
-  -f , --logfile   Desired path of log file
-  -w, --whois      Runs whois against scanner's ip</code>
+<i>Must run as sudo</i><br> 
+<code>-h, --help       show this help message and exit</code><br>
+<code>-v, --verbose    Prints scan detections to stdout</code><br>
+<code>-f , --logfile   Desired path of log file</code></br>
+<code>-w, --whois      Runs whois against scanner's ip</code>
